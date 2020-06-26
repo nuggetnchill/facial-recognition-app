@@ -1,1 +1,3 @@
-# facial-recognition-app
+# facial-recognition-app with React
+
+(...loading)
