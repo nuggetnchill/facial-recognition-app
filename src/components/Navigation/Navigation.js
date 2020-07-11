@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Navigation = ({ onRouteChange, isSignedIn }) => {
+const Navigation = ({ onRouteChange, isSignedIn}) => {
     
         if (isSignedIn){ 
             return (
