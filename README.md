@@ -2,7 +2,7 @@
 
 ✔ Front-end
 
-❌ Back-end (...work in progress)
+✔ [Back-end](https://github.com/nuggetnchill/face-app-api)
 
 
 ------
