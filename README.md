@@ -6,12 +6,22 @@
 
 
 ------
+Visit Site: https://face-regconition-app.herokuapp.com/
+
+
 ![Screenshot](https://media3.giphy.com/media/lly8nGVYgYPSTZwNMx/giphy.gif)
+
+
+`
+email: hello@gmail.com
+pass: hello
+`
 
 ### **Features**
 
-- Registering and Signing in function
-- Facial Recognition from image URL
+- Register and Sign in function
+- Facial Detection from image URL
+- Keeping track of the number of submitted images
 
 ### **Description**
 
