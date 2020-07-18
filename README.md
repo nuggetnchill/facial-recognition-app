@@ -6,7 +6,7 @@
 
 
 ------
-Visit Site: https://face-regconition-app.herokuapp.com/
+Deployed Site: https://face-regconition-app.herokuapp.com/
 
 
 ![Screenshot](https://media3.giphy.com/media/lly8nGVYgYPSTZwNMx/giphy.gif)
@@ -25,11 +25,14 @@ Visit Site: https://face-regconition-app.herokuapp.com/
 
 ### **Description**
 
-This repo contains React app that can detect faces from images by utilizing Clarifai Face Detection API
+This repo contains my first Full Stack application that can detect faces from images by utilizing Clarifai Face Detection API
 
 ### **Tech Stack**
 
 - React
+- Node & Express
+- Heroku Postgres for users database
+- Heroku Deployment
 - Clarifai API (Face Detection Model)
 - Git & Github
 
