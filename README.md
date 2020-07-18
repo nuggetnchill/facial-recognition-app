@@ -11,11 +11,11 @@ Visit Site: https://face-regconition-app.herokuapp.com/
 
 ![Screenshot](https://media3.giphy.com/media/lly8nGVYgYPSTZwNMx/giphy.gif)
 
+(Use this login if you don't want to register)
 
-`
-email: hello@gmail.com
-pass: hello
-`
+`email: hello@gmail.com`
+
+`pass: hello`
 
 ### **Features**
 
